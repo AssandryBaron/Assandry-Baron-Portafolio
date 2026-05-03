@@ -173,12 +173,12 @@ export const proyectos = [
 export const redesSociales = [
   {
     nombre: "GitHub",
-    url: "https://github.com/assandry-baron",
+    url: "https://github.com/AssandryBaron",
     icono: "github",
   },
   {
     nombre: "LinkedIn",
-    url: "https://linkedin.com/in/assandry-baron",
+    url: "https://www.linkedin.com/in/assandry-enrique-baron-rodr%C3%ADguez-6814a6337/",
     icono: "linkedin",
   },
   {
